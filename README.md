@@ -1,2 +1,8 @@
 # github-api-by-nodejs
-Project of realisation github request comands in node js
+*Курсова робота з курсу "Інженерія ПЗ"*
+
+Набір команд для взаемодії з репозиторіями github
+
+[Пояснювальна записка](/docs/report.md)
+## Автор:
+Студентк групи ІВ-93 Тарнавський Михайло
