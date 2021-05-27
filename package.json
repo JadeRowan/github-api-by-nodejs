@@ -1,0 +1,14 @@
+{
+  "name": "github-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "@jest/globals": "^27.0.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@octokit/rest": "^18.5.3",
+    "jest": "^27.0.1"
+  }
+}

@@ -4,11 +4,11 @@
 var createRepo = require('./createRepo.js')
 var deleteRepo = require('./deleteRepo.js')
 var renameRepo = require('./renameRepo.js')
-var authByToken = require('./authByToken.js')
+var authByToken = require('./authToken.js')
 var addFile = require('./addFile.js')
-const token = "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"
+const token = "ghp_oSuP7J2nZ4O6w"
 //username "testAcountForTests", password "QWERTY12345_qwerty"
-const authUser = authByToken(token)
+const authUser = authByToken(token+"V525pVWVgWYf4cM6G4JCkUl")
 const { Octokit } = require("@octokit/rest");
 let cmd = process.argv[2]
 let param1 = process.argv[3]
