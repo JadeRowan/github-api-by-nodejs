@@ -56,10 +56,8 @@
 2. Користувач проводить аутентифікацію за допомогою власного токена
 3. Користувач використовує отримані методи для роботи з репозиторіями
 
-![scenario](http://www.plantuml.com/plantuml/png/PP112eCm44NtESN7lLSGnNRNWbXwW5Id6eX9IIOBRzyXYw2u2Yyy_f-PDh8Ed3Qh03sn3tX72aeeHPfq95Hz8Cs4aNu-6Z7s2ZgY6uxEoomhZCDYU4sVB3pyOfm2ZjgDB5sZXkVH6SdfxUBqzrDVDy_u6ajWZq1YxiKS1wMGjq2TwgRCaL_KLhwai72JemiATsUKl9RSB2Vw0m00)
 
-**Діаграма класів**
-![photo2](https://github.com/sofiaguchenko/agent/blob/main/doc/ph/photo_2021-05-23_21-58-32.jpg)
+![scenario](http://www.plantuml.com/plantuml/png/PP112eCm44NtESN7lLSGnNRNWbXwW5Id6eX9IIOBRzyXYw2u2Yyy_f-PDh8Ed3Qh03sn3tX72aeeHPfq95Hz8Cs4aNu-6Z7s2ZgY6uxEoomhZCDYU4sVB3pyOfm2ZjgDB5sZXkVH6SdfxUBqzrDVDy_u6ajWZq1YxiKS1wMGjq2TwgRCaL_KLhwai72JemiATsUKl9RSB2Vw0m00)
 
 ### Структура проєкту
 Проект складаеться з п'яти JavaScript файлів
@@ -78,7 +76,7 @@ https://user-images.githubusercontent.com/44208162/119913175-e769ba00-bf65-11eb-
 ## Висновки
 В результаті виконання проєкту було розроблено набір програм для взаемодії з github.
 Під час розробки даного продукту було в повному обсязі реалізовано технічне завдання, за допомогою готової програми можна виконати поставлені на початку роботи задачі.
-Кінцева мета досягнута
+Кінцева мета досягнута.
 
 <a name="джерела"></a>
 ## Джерела
